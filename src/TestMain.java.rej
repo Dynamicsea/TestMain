@@ -1,0 +1,4 @@
+diff a/src/TestMain.java b/src/TestMain.java	(rejected hunks)
+@@ -0,0 +1,2 @@
++public class TestMain {
++}
